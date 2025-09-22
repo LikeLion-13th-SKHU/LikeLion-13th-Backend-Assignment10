@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(/Users/taeheon/Documents/school/likelion/10주차/jpademo/src/main/java/com/example/jpademo/member/api/**)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
